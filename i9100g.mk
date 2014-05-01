@@ -63,8 +63,7 @@ PRODUCT_PACKAGES += \
     hwcomposer.t1 \
     lights.t1 \
     power.t1 \
-    SamsungServiceMode \
-    Torch
+    SamsungServiceMode
 
 # RIL
 PRODUCT_PROPERTY_OVERRIDES += \
