@@ -18,6 +18,5 @@
 -->
 
 <resources>
-    <!-- Camera flash -->
-    <bool name="config_device_has_camera_flash">true</bool>
+    <dimen name="pie_trigger_height">20dp</dimen>
 </resources>
